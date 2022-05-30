@@ -34,6 +34,7 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
 --
+
 Using classnames library to toggle classes
 classnames is a simple library that lets you toggle class names easily. You can install it using npm install classnames or yarn add classnames.
 
